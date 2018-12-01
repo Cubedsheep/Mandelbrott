@@ -1,0 +1,5 @@
+"Name"  "down-left" "up-right"  "iterations"  "mid"
+"test_seahorse_valley"  -0.725+0.05im -0.775+0.1im  200 0.3
+"spirals" -0.758+0.09im -0.768+0.1im  1000  0.7
+"zoom spiral seahorse"  -0.7655+0.09im  -0.763+0.0925im 1000  0.7
+"Mandelbrot wallpaper"   -2.56-1.08im 1.28+1.08im 500 0.35 
